@@ -1,0 +1,155 @@
+.callhead h1{
+background:url(../img/four.jpg) no-repeat;
+text-indent:40px;
+width: 250px;
+height:250px;
+margin:5px 10px;
+float:left;
+}
+nav{
+float:right;
+margin-top: 25px;
+}
+nav li{
+display:inline;
+}
+nav li a{
+color:black;
+text-decoration:solid;
+padding: 5px 20px;
+font-family: poppins;
+font-size: 15px;
+}
+header h2{
+width: 250px;
+height:250px;
+margin:5px 10px;
+float:right;
+}.grid_6 img{
+margin-top: -210px;
+float:left;
+}
+.main{
+margin-top: -200px;
+float:right;
+background-color: #28cc07;
+height: 60px;
+width: 450px;
+border: 6px solid white;
+border-radius: 10px;
+text-align:left;
+font-size: 20px;
+padding:15px 25px 40px 50px;
+font-weight:50px;
+}
+.main a{
+color:white;
+padding:25px 0px 0px 0px;
+text-decoration: none;
+font-size: 11px;
+text-decoration: solid;
+font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+line-height: 3.0;
+font-weight: 500px;}
+
+
+.background{
+margin-top:2px;
+background-color: grey;
+font-size:30px;
+text-align: center;
+font-size: 30px;
+}
+.callweb h2{
+margin-top: 50px;
+text-align: center;
+margin-right: -30px;
+height: 300px;
+width: 335px;
+font-size:20px;
+line-height: 290px;
+background-color:black;
+color:grey;
+}
+.call h1{
+margin-top: 50px;
+background-color:skyblue;
+color:grey;
+height: 52px;
+width: 290px;
+text-align: right;
+text-indent: 50px;
+}
+.call h2{
+background-color:skyblue;
+color:grey;
+height: 62px;
+width: 290px;
+text-align: right;
+text-indent: 50px;}
+.call h3{
+margin-top: 70px;
+background-color: skyblue;
+color:grey;
+height: 58px;
+width: 290px;
+text-align: right;
+text-indent: 50px;}
+.call h4{
+margin-top: 10px;
+background-color:skyblue;
+color:grey;
+height: 54px;
+width: 290px;
+text-align: right;
+text-indent: 50px;}
+.calldev h1{
+margin-top: 50px;
+margin-left: 30px;
+background-color:skyblue;
+color:grey;
+height: 57px;
+width: 270px;
+text-align: right;
+text-indent: 50px;}
+.calldev h2{
+margin-left: 95px;
+margin-right: 0px;
+background-color:skyblue;
+color:grey;
+height: 57px;
+width: 268px;
+text-align: right;
+text-indent: 90px;}
+.calldev h3{
+margin-top:70px ;
+margin-left: 30px;
+background-color:skyblue;
+color:grey;
+height: 57px;
+width: 268px;
+text-align: right;
+text-indent: 90px;}
+.calldev h4{
+margin-top:5px;
+margin-left: 30px;
+background-color:skyblue;
+color:grey;
+height: 57px;
+width: 268px;
+text-align: right;
+text-indent: 90px;}
+.callnav nav{
+float: none;
+position: absolute;
+top: 130%;
+left: 50%;
+transform: translate(-50%, -50%);
+}
+.callnav a{
+border-radius:10px;
+padding: 5px 20px;
+height: 200px;
+width: 200px;
+}
+
